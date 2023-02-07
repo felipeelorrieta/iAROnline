@@ -43,7 +43,7 @@ python setup.py install --user
 Examples
 ======================
 
--   iAROnline demo [here](https://github.com/felipeelorrieta/iAR/blob/master/examples/IAROnline_Demo.ipynb)
+-   iAROnline demo [here](https://github.com/felipeelorrieta/iAROnline/blob/master/examples/IAROnline_Demo.ipynb)
 
 Authors
 ======================
