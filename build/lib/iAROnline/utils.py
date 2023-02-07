@@ -6,8 +6,6 @@ import iar
 from numpy import linalg as LA
 from numba import njit
 
-
-@njit
 def IARPhi_sample(phi, n, st):
     Sigma = np.zeros((n, n))
     for i in range(0, n):

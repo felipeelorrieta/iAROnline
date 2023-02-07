@@ -1,6 +1,6 @@
 Metadata-Version: 1.1
 Name: iAROnline
-Version: 0.0.2
+Version: 0.0.3
 Summary: Online estimation methods for the irregularly observed autoregressive (iAR) model
 Home-page: https://github.com/felipeelorrieta/Onlineiar
 Author: Felipe Elorrieta

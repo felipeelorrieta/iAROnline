@@ -31,7 +31,7 @@ statistics
 Install from PyPI using:
 
 ```
-pip install iaronline
+pip install iAROnline
 ```
 
 or clone this github and do:

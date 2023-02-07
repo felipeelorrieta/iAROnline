@@ -3,7 +3,7 @@ Data sets, functions and scripts with examples to implement online estimation me
 https://github.com/felipeelorrieta/Onlineiar
 """
 
-__version__ = '0.0.2'
+__version__ = '0.0.3'
 
 from .methods import IAR_OBI,IAR_OBR,IAR_OGD,IAR_ONS,IARg_OGD,IARg_ONS,update_ONS,update_OGD
 from .utils import IARPhi_sample
