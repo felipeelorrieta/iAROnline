@@ -14,14 +14,13 @@ classifiers = [
 
 setup(
     name = 'iAROnline',
-    version='0.0.1',
+    version='0.0.2',
     description='Online estimation methods for the irregularly observed autoregressive (iAR) model',
     long_description='Data sets, functions and scripts with examples to implement online estimation methods for the irregularly observed autoregressive (iAR) model (Eyheramendy et al.(2018) <doi:10.1093/mnras/sty2487>). The online learning algorithms implemented are: gradient descent (IAR_OGD), Newton-step (IAR-ONS) and Kalman filter recursions (IAR-OBR).',
     url='https://github.com/felipeelorrieta/Onlineiar',
     author='Felipe Elorrieta',
     author_email='<felipe.elorrieta@usach.cl>',
     license='MIT',
-    packages=['iAROnline'],
     classifiers=classifiers,
     keywords = ['irregulary observed time series','autoregressive','online estimation methods'],
     packages=find_packages(),
@@ -29,4 +28,3 @@ setup(
     package_dir={'iAROnline':'iAROnline'},
     package_data={"":["../data/*.csv"]},
     zip_safe=False)
-)
