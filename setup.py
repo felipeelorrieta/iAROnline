@@ -17,7 +17,7 @@ setup(
     version='0.0.3',
     description='Online estimation methods for the irregularly observed autoregressive (iAR) model',
     long_description='Data sets, functions and scripts with examples to implement online estimation methods for the irregularly observed autoregressive (iAR) model (Eyheramendy et al.(2018) <doi:10.1093/mnras/sty2487>). The online learning algorithms implemented are: gradient descent (IAR_OGD), Newton-step (IAR-ONS) and Kalman filter recursions (IAR-OBR).',
-    url='https://github.com/felipeelorrieta/Onlineiar',
+    url='https://github.com/felipeelorrieta/iAROnline',
     author='Felipe Elorrieta',
     author_email='<felipe.elorrieta@usach.cl>',
     license='MIT',

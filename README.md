@@ -9,10 +9,10 @@ Data sets, functions and scripts with examples to implement online estimation me
 Contents
 ========
 
--  iAR Online Newton Step (iAR-ONS) [[1]](#2)
+-  iAR Online Newton Step (iAR-ONS) [[2]](#2)
 -  iAR Online Gradient Descent (iAR-OGD)[[2]](#2)
--  iAR Online Bayesian Regression (iAR-OBR) [[3]](#2)
--  iAR Online Bayesian Estimation (iAR-OBI) [[4]]
+-  iAR Online Bayesian Regression (iAR-OBR) [[2]](#2)
+-  iAR Online Bayesian Estimation (iAR-OBI) 
 
 Instalation
 =====================
@@ -62,5 +62,5 @@ References
 
 <a id="1">[1]</a> Eyheramendy S, Elorrieta F, Palma W (2018). “An irregular discrete time series model to identify residuals with autocorrelation in astronomical light curves.” Monthly Notices of the Royal Astronomical Society, 481(4), 4311–4322. ISSN 0035-8711, doi: 10.1093/mnras/sty2487, https://academic.oup.com/mnras/article-pdf/481/4/4311/25906473/sty2487.pdf.
 
-<a id="2">[2]</a> Elorrieta, F, Eyheramendy, S, Palma, W (2019). “Discrete-time autoregressive model for unequally spaced time-series observations.” A\& A, 627, A120. doi: 10.1051/00046361/201935560, https://doi.org/10.1051/0004-6361/201935560.
+<a id="2">[2]</a> Elorrieta, F., Osses, L., Cáceres, M., Eyheramendy, S., and Palma, W., “Online estimation methods for irregular autoregressive models”, <i>arXiv e-prints</i>, 2023. doi:10.48550/arXiv.2302.10785.
 
